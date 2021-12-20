@@ -51,4 +51,7 @@ a:visited{
     text-decoration: underline overline;
     color: rgb(115, 255, 0);
 }
-
+.cc::before{
+    content: url(image/Purple\ E-sports\ Illustrative\ Gaming\ and\ Technology\ Logo.png)
+    
+}
