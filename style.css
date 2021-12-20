@@ -10,3 +10,10 @@ div{
 .container{
     background-color: darkgreen;
 }
+.toto{
+    color: darkred;
+    padding: auto;
+    font-size: 15pt;
+    align-items: flex-end;
+    column-width: 25px;
+}
