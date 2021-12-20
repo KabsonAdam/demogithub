@@ -17,3 +17,11 @@ div{
     align-items: flex-end;
     column-width: 25px;
 }
+.marron{
+    color: deeppink;
+}
+.vertgras{
+    color: gold;
+    font-weight: bold;
+    font-size: 41px;
+}
