@@ -129,4 +129,25 @@ nav ul {
     border-color: #F3F3F3 #BBB #BBB #F3F3F3;
     margin: 1px;
     padding:.5em;
+}
+.carre{
+    list-style-type: square;
+    background-color: darkviolet;
+    #display: inline-block;
+}
+ul.qoqo{
+    list-style-type: square;
+}
+.ti{
+    text-decoration: underline;
+    color: deeppink;
+    text-transform: lowercase;
+    font-style: italic;
+}
+.tii{
+    text-decoration: underline;
+    color:deeppink;
+    text-transform: capitalize;
+    font-style: italic;
+}
 
