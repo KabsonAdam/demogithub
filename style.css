@@ -28,11 +28,12 @@ div{
 .bordure{
     color: blue;
     font-size: 25px;
-    border: 2px solid;
+    border: dashed;
     box-shadow: 00 2px rgb(0, 255, 55);
     padding: auto;
     text-align: center;
-    transform: unset;
+    text-transform: lowercase;
+    border-radius:  5px 10px 10px green;
 
 }
 h1 em 
@@ -42,6 +43,9 @@ color: blue
 h3+p
 {
     color: coral;
+    font-style: italic;
+    font-weight: bolder;
+    padding-left: 14px;
 }
 a:link{
     text-decoration: underline;
@@ -55,3 +59,74 @@ a:visited{
     content: url(image/Purple\ E-sports\ Illustrative\ Gaming\ and\ Technology\ Logo.png)
     
 }
+.kabson{
+    font-style: italic;
+    font-family: fantasy;
+    font-weight: 800px;
+    color: chocolate;
+    text-transform: capitalize;
+    border : 2px solid;
+    background-color: red;
+    text-align: center;
+    background-attachment: scroll;
+}
+body{
+    background-color: rgb(47, 0, 255);
+    background-image: url(image/Purple\ E-sports\ Illustrative\ Gaming\ and\ Technology\ Logo.png);
+    background-repeat: repeat;
+    background-position : center;
+    
+}
+.ch{
+    vertical-align: text-bottom;
+    text-align: center;
+    border-radius: 25px rgb(128, 0, 0);
+    border: 2px solid;
+    background-color: rgb(0, 255, 55);
+    letter-spacing: 0pt;
+    display: ruby;
+
+}
+.inlineback{
+    display: block;
+    text-align: center;
+    border: 1px solid;
+    text-decoration: underline;
+    color: rgb(0, 255, 55);
+}
+.soloking{
+    display: block;
+    text-transform: lowercase;
+    text-align: center;
+    border: 2px solid;
+    color: brown;
+}
+.lekingnasdaq{
+    display: block ;
+    text-align: center;
+    border-color: brown;
+    border: 1px solid;
+
+}
+nav ul {
+    list-style-type: none;
+    display: inline block;
+    text-align: center;
+    }
+ 
+ nav li{
+    display: inline;
+    background-color:#EEE;
+    border: 1px solid;
+    border-color: #F3F3F3 #BBB #BBB #F3F3F3;
+    margin: 1px;
+    padding:.5em;
+}
+.menu li{
+    display: inline;
+    background-color:#EEE;
+    border: 1px solid;
+    border-color: #F3F3F3 #BBB #BBB #F3F3F3;
+    margin: 1px;
+    padding:.5em;
+
