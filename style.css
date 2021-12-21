@@ -150,4 +150,15 @@ ul.qoqo{
     text-transform: capitalize;
     font-style: italic;
 }
+.La{
+    text-transform: capitalize;
+    text-decoration: underline;
+    border: 1px solid;
+    color: gold;
+    text-align: center;
+
+}
+.fig{
+  
+}
 
