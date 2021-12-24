@@ -159,6 +159,16 @@ ul.qoqo{
 
 }
 .fig{
-  
+  border: 2px;
 }
 
+.faharatou{
+    border: 2px solid;
+}
+
+.youth{
+    border: 2px solid;
+    width: 100%;
+    font-size: 12px;
+    color: darkorange;
+}
