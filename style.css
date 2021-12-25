@@ -171,4 +171,29 @@ ul.qoqo{
     width: 100%;
     font-size: 12px;
     color: darkorange;
+    border-collapse: collapse;
+}
+.poupette{
+    border: 2px solid;
+    width: 100%;
+    text-align: center;
+    text-transform: capitalize;
+}
+.captions{
+    caption-side: bottom;
+    text-decoration: underline;
+    color: darkred;
+    font-style: italic;
+
+
+}
+.coco{
+    border: 2px solid;
+    stop-opacity: inherit;
+    font-style: oblique;
+    width: 100%;
+    color: lawngreen;
+    text-transform: capitalize;
+    text-decoration-style: solid;
+    text-decoration: underline ;
 }
