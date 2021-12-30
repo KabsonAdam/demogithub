@@ -1,0 +1,239 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=h1, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>KabsonFaharat</title>
+</head>
+<body>
+    <h1>cocouou</h1>
+    <h1>cocouou</h1>
+    <div>je t'aime trop ma faharatou</div>
+    <ul class = "coco">
+        <li>
+            kabore
+        </li>
+        <div class="container">
+            <div class="row">
+                <div class=""></div>
+            </div>
+        </div>
+    </ul>
+    <div class="toto">
+        <p class="col-xs-6 col-md-12">le site web de kabson</p>
+        <p class="col-xs-6 col-md-12">le site web de kabson</p>
+        <p class="col-xs-6 col-md-12">le site web de kabson</p>
+        <p class="col-xs-6 col-md-12">le site web de kabson</p>
+    </div>
+  <div class="marron">Mon texte</div>
+  <div class="vertgras">Mon texte</div>
+  <h1 class = "col-xs-6 col-md-16">Hello world</h1>
+  <p class="vertgras">texte vert et gras <span
+    class="marron">texte gras et marron </span>texte vert et 
+    gras</p>
+    <p class="toti">kabson</p><span class ="marron">text rouge et vert</span> kabson</div>
+    <p class="bordure">Mon premier pas dans la programmation </p>
+    <h1>cours de <em>Html</em></h1>
+
+    <h3>Le titre du site</h3>
+    <p>Mon premier paragraph</p>
+    <p >Mon deuxième paragraph</p>
+    <div>
+        <a href="#" title ="HELLO">VOICI LE LIEN DU SITE</a>
+    </div>
+  
+  <div>
+    <label for="champ4">Entrer votre nom :
+        <input type="text" titre ="champ4 requered">
+    
+    </label>
+  </div>
+  <a href="#" title="Hello2">le lien du colis</a>
+  <h1 class="cc width :25px">Mon bro,tu manggggggggggggggggges mal</h1>
+
+  <p class="kabson">Oui je m'appelle kabson_Adam</p>
+  <h4 class ="ch">je suis le king des traders du monde entier</h4>
+
+   <h2>Positionnement avec le display :inline</h2>
+   <p class="inlineback">Mon premier programme</p>
+   <p class="soloking">Mon premier programme</p>
+   <p class="lekingnasdaq">Mon premier programme</p>
+
+
+   <nav>
+    <ul>
+    <li> <a href="#">Accueil</a> </li>
+    <li> <a href="HTML/livres.html">Liste des livres</a> </li>
+    <li> <a href="HTML/recherche.html">Recherche</a> </li>
+    <li> <a href="HTML/evaluation.html">Evaluation</a> </li>
+    <li> <a href="HTML/contact.html">Contact</a> </li>
+    </ul>
+    </nav>
+    <hr>
+
+    <nav class="toto1">
+        <ol>
+            <li>kabore</li>
+            <li>Ripama</li>
+            <li>ouedraogo</li>
+            <li>Yameogo</li>
+            <li>Zongo</li>
+            <li>Bado</li>
+        </ol>
+    </nav>
+    <hr>
+    <nav>
+        <ul class="menu">
+        <li> <a href="#">Accueil</a> </li>
+        <li> <a href="HTML/livres.html">Liste des livres</a> </li>
+        <li> <a href="HTML/recherche.html">Recherche</a> </li>
+        <li> <a href="HTML/evaluation.html">Evaluation</a> </li>
+        <li> <a href="HTML/contact.html">Contact</a> </li>
+        </ul>
+        </nav>
+        <ol start ="5" type ="A">
+            <li>le bro</li>
+            <li>le bro</li>
+            <li>le bro</li>
+            <li>le bro</li>
+        </ol>
+        <ol start ="2" type ="A">
+            <li>le bro</li>
+            <li>le bro</li>
+            <li>le bro</li>
+            <li>le bro</li>
+        </ol>
+
+        <ul class="carre">
+            <li>fraises</li>
+            <li>framboises</li>
+            <li>cerises</li>
+        </ul>
+        <hr>
+        <ul>
+            <li>Accueille</li>
+            <li>Produit
+                <ol start="2" type="A">
+                    <li>ordinateur</li>
+                    <li>Imprimanted</li>
+                </ol>
+            </li>
+            <li>Contact
+                <ul class ="qoqo">
+                <li>+21655388604</li>
+                <li>+21673351462</li>
+                <li>+21658542471</li>
+                </ul>
+            </li>
+            <li>Villes
+                <ol start ="1" type= "i" reversed>
+                    <li >Tunis</li>
+                    <li>Sousse</li>
+                    <li>Sfaxe</li>
+                    <li>taoussou</li>
+                </ol>
+            </li>
+            <li>Accueille</li>
+        </ul>
+        <hr>
+        <dl>
+            <dt class="tii">HTML</dt>
+            <dd>c'est un langage utilisé pour balayer les site web</dd>
+            <dt class="ti">balise</dt>
+            <dd>elle est utilisé pour décorer les pages web</dd>
+        </dl>
+
+        <dl>
+            <dt class="La">Git</dt>
+            <dd>le git est un modèle de contrôle de version des codes</dd>
+
+        </dl>
+        <figure class="fig">
+            <img src="../image/HTML.png "  alt=" logo de html" 
+            title="L've seen the fiture">
+            <figcaption>HTML.png</figcaption>
+        </figure>
+        <h1 id="mon_ancre">Titre</h1>
+        <p><a href="#mon_ancre">Aller vers l'ancre</a></p>
+
+        <hr>
+        <p>Souhaitez-vous visiter <a href="http://ent.uvt.rnu.tn" 
+            title="Environnement numérique de travail">ENT</a> pour accéder à 
+            votre espace de cours de développement web?</p>
+
+            <hr>
+            <p>Souhaitez vous visiter le lien <a href="#mon_ancre" title="environement de travail de kabson_Adam">ENT</a>pour voir nos nouveaux arrivages de la émaine</p>
+            <hr>
+            <p>Souhaitez-vous visiter <a href="http://ent.uvt.rnu.tn" 
+                target="_blank">ENT</a> pour accéder à votre espace de cours de 
+                développement web?</p>
+                <table>
+                    <tr>kabore
+                        <td>Kabson_Adam</td>
+                    </tr>
+                </table>
+               
+                <table class = "youth">
+                    <tr>
+                    <td>Nom</td>
+                    <td>Prénom</td>
+                    </tr>
+                    <tr>
+                    <td>Kabore</td>
+                    <td>Kabson_Adam</td>
+                    </tr>
+                    <tr>
+                    <td>toto</td>
+                    <td>Ahlem</td>
+                    </tr>
+            </table>
+
+    <table class="poupette">
+        <caption class="captions">Voici la liste des étudiants qualifiers</caption>
+        <tr >
+            <th>Nom</td>
+            <th>Prenom</td>
+        </tr>
+        <tr>
+            <td>Kabore</td>
+            <td>Adama</td>
+        </tr>
+        <tr>
+            <td>Ripama</td>
+            <td>Mohamed</td>
+        </tr>
+        <tr>
+            <td>ouedraogo</td>
+            <td>Armel</td>
+        </tr>
+    </table>
+    <table class="coco">
+        <tr>
+            <td rowspan ="2">cellule1</td>
+        </tr>
+        <tr>
+            <td >cellule2</td>
+            <td >cellule3</td>
+        </tr>
+       
+    </table>
+    <form method="post" action="traitement.php" name= " formNom" >
+        <p>Votre Nom: <input type="text" name="nom" size="30" 
+        maxlength="20" value="Kabore"/></p>
+        <p>Votre Prenom: <input type="text" name="Prenom" size="30" 
+        maxlength="20" value="Kabson_Adam"/></p>
+        </form>
+        <label for="pseudo">veuillez saississez votre nom</label>
+            <input type="text" id="pseudo">
+        
+        <p> <label for="prenom">Votre nom svp</label>
+            <input type="text" id ="prenom" name="prenom" placeholder ="votre prenom">
+        </p>
+
+        
+</body>
+</html>
